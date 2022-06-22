@@ -1,4 +1,4 @@
-[![n1kkls's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kkl&theme=dark)](#)
+[![n1kkls's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kkl)](#)
 ```
          _nnnn_
         dGGGGMMb
@@ -17,4 +17,4 @@ _)      \.___.,|     .'
 \____   )MMMMMP|   .'
      `-'       `--' 
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kkl&theme=dark)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kkl)](#)
