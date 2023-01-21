@@ -1,4 +1,3 @@
-[![n1kkls's GitHub stats](https://github-readme-stats.vercel.app/api?username=n1kkl)](#)
 ```
 88888888888888888888888888888888888888888888888888888888888888888888888
 88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .'|   |.'|     |  _..88
@@ -23,4 +22,3 @@
 88  _.'     !'|   .' | /                       \|  `  |  `.    |`.|  88
 888888888888888888(888888888888888888888888888888888888888888888(FL)888
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n1kkl)](#)
