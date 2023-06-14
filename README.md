@@ -22,3 +22,8 @@
 88  _.'     !'|   .' | /                       \|  `  |  `.    |`.|  88
 888888888888888888(888888888888888888888888888888888888888888888(FL)888
 ```
+
+<p align="center">
+    <a href="https://github.com/IShouldTestMyCode/hrt-cafe-archive"><img src="https://cyber.dabamos.de/88x31/notepad4.gif" /></a>
+    <a href="https://github.com/IShouldTestMyCode/hrt-cafe-archive"><img src="https://cyber.dabamos.de/88x31/winxp.gif" /></a>
+</p>
