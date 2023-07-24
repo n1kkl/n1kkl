@@ -24,6 +24,6 @@
 ```
 
 <p align="center">
-    <a href="https://github.com/IShouldTestMyCode/hrt-cafe-archive"><img src="https://cyber.dabamos.de/88x31/notepad4.gif" /></a>
-    <a href="https://github.com/IShouldTestMyCode/hrt-cafe-archive"><img src="https://cyber.dabamos.de/88x31/winxp.gif" /></a>
+    <a><img src="https://cyber.dabamos.de/88x31/notepad4.gif" /></a>
+    <a><img src="https://cyber.dabamos.de/88x31/winxp.gif" /></a>
 </p>
